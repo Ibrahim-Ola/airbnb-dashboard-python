@@ -18,5 +18,19 @@ The dataset used in this projectis publicly available on [kaggle](https://www.ka
 The easiest way to use this code by clonning this repository. To clone this repositort type:
 
 ```{none}
- git clone https://github.com/Ibrahim-Ola/Comprehensive-Exam.git
+ https://github.com/Ibrahim-Ola/airbnb-dashboard-python.git
+```
+
+## Required Libraries
+
+All packages needed comes pre-installed in Anaconda except; `geopandas`, `panel`, and `holoviews`. Install the packages using the following:
+
+```{none}
+ conda install --channel conda-forge geopandas
+```
+```{none}
+ conda install -c conda-forge panel
+```
+```{none}
+ conda install -c conda-forge holoviews
 ```
