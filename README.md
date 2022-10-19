@@ -37,7 +37,7 @@ All packages needed comes pre-installed in Anaconda except; `geopandas`, `panel`
 
 ## Dashboard Preview
 
-```{none}
+```
  panel serve Dashboard.ipynb
 ```
 
