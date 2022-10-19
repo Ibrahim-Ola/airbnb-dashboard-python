@@ -11,7 +11,7 @@ Our visualization is grouped into two sections:
 
 ## Dataset
 
-The dataset used in this projectis publicly available on [kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data). The dataset contains properties of Airbnb apartments in New York City.
+The dataset used in this project is publicly available on [kaggle](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data). The dataset contains properties of Airbnb apartments in New York City.
 
 ## Using this code
 
