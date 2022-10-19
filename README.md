@@ -34,3 +34,10 @@ All packages needed comes pre-installed in Anaconda except; `geopandas`, `panel`
 ```{none}
  conda install -c conda-forge holoviews
 ```
+
+## Dashboard Preview
+
+```{none}
+ panel serve Dashboard.ipynb
+```
+
