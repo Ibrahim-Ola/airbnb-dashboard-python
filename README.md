@@ -43,5 +43,5 @@ All packages needed comes pre-installed in Anaconda except; `geopandas`, `panel`
 
 ## Dashboard Preview
 
-
+![alt text](https://github.com/Ibrahim-Ola/airbnb-dashboard-python/blob/main/images/dashboar_preview.png)
 
