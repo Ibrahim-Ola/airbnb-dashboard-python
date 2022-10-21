@@ -23,16 +23,9 @@ The easiest way to use this code by clonning this repository. To clone this repo
 
 ## Required Libraries
 
-All packages needed comes pre-installed in Anaconda except; `geopandas`, `panel`, and `holoviews`. Install the packages using the following:
 
 ```{none}
- conda install --channel conda-forge geopandas
-```
-```{none}
- conda install -c conda-forge panel
-```
-```{none}
- conda install -c conda-forge holoviews
+ pip install -r requirements.txt
 ```
 
 ## Deploying the Dashboard
