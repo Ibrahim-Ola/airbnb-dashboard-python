@@ -15,7 +15,7 @@ The dataset used in this project is publicly available on [kaggle](https://www.k
 
 ## Using this code
 
-The easiest way to use this code by clonning this repository. To clone this repository type:
+The easiest way to use this code is by cloning this repository. To clone this repository, type:
 
 ```{none}
  https://github.com/Ibrahim-Ola/airbnb-dashboard-python.git
@@ -24,7 +24,7 @@ The easiest way to use this code by clonning this repository. To clone this repo
 ## Required Libraries
 
 
-```{none}
+```{python}
  pip install -r requirements.txt
 ```
 
